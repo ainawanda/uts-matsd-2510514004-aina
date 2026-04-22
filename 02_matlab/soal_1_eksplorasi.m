@@ -1,3 +1,18 @@
+% =====================================================
+% UTS Matematika Sains Data — Semester Genap 2025/2026
+% Soal 1 — Eksplorasi Awal dan Profil Data Transaksi
+% ---------------------------------------------------
+% Nama : Aina Wanda Rahmaliya
+% NIM : 2510514004
+% Parameter: N=4,a=0,b=4,k=5,theta0=20,alpha=0,005
+% Tanggal: <YYYY-MM-DD>
+% =====================================================
+clc; clear; close all;
+% Parameter personalisasi
+N = 4; a = 0; b = 4; K = 5;
+theta0 = 20;% derajat
+alpha_lr = 0.005;
+
 a = 0;
 K = 5;
 b = 4;
