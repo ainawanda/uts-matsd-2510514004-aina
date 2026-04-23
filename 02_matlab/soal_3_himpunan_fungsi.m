@@ -1,6 +1,6 @@
 % =====================================================
 % UTS Matematika Sains Data — Semester Genap 2025/2026
-% Soal 1 — Eksplorasi Awal dan Profil Data Transaksi
+% Soal 3 — Segmentasi Pelanggan dan komposisi fungsi harga
 % ---------------------------------------------------
 % Nama : Aina Wanda Rahmaliya
 % NIM : 2510514004
