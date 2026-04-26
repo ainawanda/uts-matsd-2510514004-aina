@@ -60,7 +60,7 @@ disp('A^-1 (MATLAB):');
 disp(A_inv_matlab);
 
 %menghitung Norma Error Frobenius
-frobenius_error = norm(A_inv_manual - A_inv_matlab, 'fro');
+frobenius_error = norm(A_inv - A_inv_matlab, 'fro');
 fprintf('norma error frobenius: %.4e\n', frobenius_error);
 
 % Verifikasi Norma Error
