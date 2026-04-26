@@ -5,7 +5,7 @@
 % Nama : Aina Wanda Rahmaliya
 % NIM : 2510514004
 % Parameter: N=4,a=0,b=4,k=5,theta0=20,alpha=0.005
-% Tanggal: 2026-4-23
+% Tanggal: 2026-4-26
 % =====================================================
 
 %parameter personalisasi
